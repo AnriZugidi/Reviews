@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: #502050;
+}
+.mtavari {
+    width: 1110px;
+    height: 800px;
+    margin: auto;
+    position: relative;
+}
+.txt {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    width: 400px;
+}
+.patara{
+    position: absolute;
+    top: 260px;
+    left: 0;
+    color: gray;
+}
+.colton {
+    position: absolute;
+    top: 430px;
+    left: 0;
+    width: 290px;
+    height: 155px;
+    padding: 30px;
+    background-color: #502050;
+    color: white;
+    border-radius: 8px;
+}
+.colton img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.name{
+    position: absolute;
+    top: 25px;
+    left: 95px;
+}
+.colton p{
+    font-size: 14px;
+}
+.irene {
+    position: absolute;
+    top: 446px;
+    left: 380px;
+    width: 290px;
+    height: 155px;
+    padding: 30px;
+    background-color: #502050;
+    color: white;
+    border-radius: 8px;
+}
+.irene img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.name2 {
+    position: absolute;
+    top: 25px;
+    left: 95px;
+}
+.irene p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.Anne {
+    position: absolute;
+    top: 462px;
+    left: 760px;
+    width: 290px;
+    height: 155px;
+    padding: 30px;
+    background-color: #502050;
+    color: white;
+    border-radius: 8px;
+}
+
+.Anne img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.name3 {
+    position: absolute;
+    top: 25px;
+    left: 95px;
+}
+
+.Anne p{
+    font-size: 14px;
+    line-height: 22px;
+}
+.stars {
+    top: 145px;
+    left: 570px;
+}
+
+.stars2 {
+    top: 217px;
+    left: 618px;
+}
+
+.stars3 {
+    top: 289px;
+    left: 665px;
+}
+
+
+.stars3 img {
+    width: 17px;
+}
+.stars::after {
+    content: "Rated 5 Stars in Reviews";
+    margin-left: 20px;
+    color: #502050;
+    font-weight: bold;
+}
+.stars2::after {
+    content: "Rated 5 Stars in Report Guru";
+    margin-left: 20px;
+    color: #502050;
+    font-weight: bold;
+}
+.stars3::after {
+    content: "Rated 5 Stars in BestTech";
+    margin-left: 20px;
+    color: #502050;
+    font-weight: bold;
+}
+.varskvlav{
+    position: absolute;
+    top: 145px;
+    left: 570px;
+   
+}
